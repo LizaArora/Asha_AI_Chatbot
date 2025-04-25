@@ -213,6 +213,7 @@ scipy
 scrapingant-client 
 Scrapy 
 scrapy-splash 
+selenium
 serpapi 
 service-identity 
 setuptools 
