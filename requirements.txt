@@ -1,0 +1,19 @@
+# fastapi
+# uvicorn
+# requests
+# beautifulsoup4
+# sentence-transformers
+# google-generativeai
+# neo4j
+# python-dotenv
+
+
+fastapi
+uvicorn
+anyio
+selenium
+beautifulsoup4
+neo4j
+sentence-transformers
+numpy
+google-generativeai
