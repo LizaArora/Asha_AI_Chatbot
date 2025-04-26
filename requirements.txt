@@ -172,7 +172,7 @@ puremagic
 pyasn1 
 pyasn1_modules 
 pycparser 
-pydantic 
+pydantic<2.0
 pydantic-settings 
 pydantic_core 
 PyDispatcher 
