@@ -127,7 +127,7 @@ nltk
 numpy 
 oauthlib 
 onnxruntime 
-openai 
+openai-0.28.0
 openpyxl 
 opentelemetry-api 
 opentelemetry-exporter-otlp-proto-common 
