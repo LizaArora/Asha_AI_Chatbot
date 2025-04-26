@@ -24,7 +24,7 @@ certifi
 cffi 
 charset-normalizer 
 chroma-hnswlib 
-chromadb 
+chromadb==0.4.22
 ci-info 
 cleo 
 click 
