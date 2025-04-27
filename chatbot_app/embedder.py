@@ -7,7 +7,9 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Load the sentence transformer model
-model = SentenceTransformer("all-MiniLM-L6-v2")
+# model = SentenceTransformer("all-MiniLM-L6-v2")
+model = SentenceTransformer("paraphrase-MiniLM-L3-v2")
+
 logger.info("SentenceTransformer model 'all-MiniLM-L6-v2' loaded successfully.")
 
 def embed_text(text: str) -> list[float]:
